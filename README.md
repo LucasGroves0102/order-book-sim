@@ -33,4 +33,3 @@ Features
     - plots.py
     - Benchmakrs and Profiling
     - CSV/SQLite writer
-    - 
