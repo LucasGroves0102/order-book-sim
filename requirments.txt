@@ -1,0 +1,10 @@
+# Core scientific stack
+numpy>=1.24
+matplotlib>=3.8
+
+# Testing
+pytest>=8.0
+
+# Pybind11 (for building the C++ bindings)
+pybind11[global]>=2.12
+
